@@ -1,5 +1,7 @@
-Takes nodes (jobs in this case) with attributes and put them in a priority queue. 
-The processor, or processors prints the order that nodes go through the queue (based on a priority and time attribute). 
+Objective: Learn and implement a priority queue. Multicore processing techniques (in theory).
+
+Takes nodes, jobs in this case, with attributes and put them in a priority queue. 
+The processor(s) print the order that the nodes go through the queue based on a priority and time attribute. 
 
 This project taught me the design of how processor(s) process and how multithreading can decrease processing time, also 
 how much more complex it is to multithread an application.
