@@ -1,3 +1,5 @@
+Objective: Learn and implement a doubly linked list.
+
 Takes in a valid file and reads in the number of applicants (N), selector ones
 number (k), and selectors two numbers (m). The selectors will loop around the
 linked list - looping an amount of nodes based on the numbers given to them.
