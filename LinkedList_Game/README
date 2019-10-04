@@ -1,1 +1,5 @@
-Learning and Implementing a doubly linked list via the style of a game.
+Takes in a valid file and reads in the number of applicants (N), selector ones
+number (k), and selectors two numbers (m). The selectors will loop around the
+linked list - looping an amount of nodes based on the numbers given to them.
+If the selectors land on the same node, the node becomes a politician. 
+Otherwise the two nodes are eliminated from the linked list.
